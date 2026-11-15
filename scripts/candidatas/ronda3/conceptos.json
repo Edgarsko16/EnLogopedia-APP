@@ -1,0 +1,114 @@
+[
+ {
+  "id": "leche",
+  "queries": [
+   "Vaso de leche",
+   "milk drink glass"
+  ]
+ },
+ {
+  "id": "beber",
+  "queries": [
+   "horse drinking water",
+   "cat drinking"
+  ]
+ },
+ {
+  "id": "vaso",
+  "queries": [
+   "drinking glass isolated",
+   "tumbler glass"
+  ]
+ },
+ {
+  "id": "plato",
+  "queries": [
+   "porcelain plate isolated",
+   "empty dinner plate"
+  ]
+ },
+ {
+  "id": "llave",
+  "queries": [
+   "keys on keyring",
+   "old door key"
+  ]
+ },
+ {
+  "id": "leer",
+  "queries": [
+   "open book on lap",
+   "boy reading book"
+  ]
+ },
+ {
+  "id": "bicicleta",
+  "queries": [
+   "bicycle parked",
+   "city bicycle isolated"
+  ]
+ },
+ {
+  "id": "calcetines",
+  "queries": [
+   "socks isolated",
+   "striped socks"
+  ]
+ },
+ {
+  "id": "camiseta",
+  "queries": [
+   "t-shirt on hanger",
+   "blank t-shirt"
+  ]
+ },
+ {
+  "id": "vestido",
+  "queries": [
+   "summer dress isolated",
+   "red dress mannequin"
+  ]
+ },
+ {
+  "id": "bufanda",
+  "queries": [
+   "scarf isolated",
+   "striped scarf"
+  ]
+ },
+ {
+  "id": "pantalon",
+  "queries": [
+   "trousers on hanger",
+   "blue jeans isolated"
+  ]
+ },
+ {
+  "id": "silla",
+  "queries": [
+   "wooden chair white background",
+   "plastic chair"
+  ]
+ },
+ {
+  "id": "mesa",
+  "queries": [
+   "wooden dining table",
+   "small wooden table"
+  ]
+ },
+ {
+  "id": "gorro",
+  "queries": [
+   "bobble hat",
+   "winter hat isolated"
+  ]
+ },
+ {
+  "id": "chaqueta",
+  "queries": [
+   "denim jacket",
+   "jacket isolated"
+  ]
+ }
+]

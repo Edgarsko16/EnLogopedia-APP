@@ -1,0 +1,76 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# generated native folders
+/ios
+/android
+
+# Variables de entorno y credenciales (nunca al repositorio)
+.env
+.env.*
+!.env.example
+*.cer
+*.der
+*.keystore
+google-services.json
+GoogleService-Info.plist
+credentials.json
+*.credentials.json
+
+# Registros, temporales y copias de seguridad
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+*.anterior-*
+Thumbs.db
+desktop.ini
+
+# Copias exportadas desde la app (contienen datos de perfiles y sesiones)
+enlogopedia-copia*.json
+copias/
+
+# Hojas de contactos de Commons: regenerables con scripts/commons-search.mjs
+# (se conservan conceptos.json y candidates.json, necesarios para build-selection)
+scripts/candidatas/**/sheet-*.png
+
+# Ajustes locales de herramientas
+.claude/settings.local.json
+coverage/

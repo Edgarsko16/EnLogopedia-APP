@@ -1,0 +1,411 @@
+[
+ {
+  "ronda": "r1",
+  "concepto": "perro",
+  "indice": 3,
+  "nombre": "perro",
+  "categoria": "animales",
+  "observaciones": "Labrador marrón mirando hacia arriba con la boca abierta."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "gato",
+  "indice": 0,
+  "nombre": "gato",
+  "categoria": "animales",
+  "observaciones": "Gato atigrado caminando sobre la nieve; cuerpo entero."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "oveja",
+  "indice": 0,
+  "nombre": "oveja",
+  "categoria": "animales",
+  "observaciones": "Oveja de raza Swaledale en un prado."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "vaca",
+  "indice": 4,
+  "nombre": "vaca",
+  "categoria": "animales",
+  "observaciones": "Dos vacas marrones pastando en un prado."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "cerdo",
+  "indice": 2,
+  "nombre": "cerdo",
+  "categoria": "animales",
+  "observaciones": "Cerdo rosado de pie en un corral de tierra."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "gallina",
+  "indice": 1,
+  "nombre": "gallina",
+  "categoria": "animales",
+  "observaciones": "Primer plano de una gallina roja."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "conejo",
+  "indice": 0,
+  "nombre": "conejo",
+  "categoria": "animales",
+  "observaciones": "Conejo blanco y marrón sobre la hierba."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "elefante",
+  "indice": 5,
+  "nombre": "elefante",
+  "categoria": "animales",
+  "observaciones": "Elefante africano caminando de perfil."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "mariposa",
+  "indice": 0,
+  "nombre": "mariposa",
+  "categoria": "animales",
+  "observaciones": "Mariposa pavo real con las alas abiertas sobre flores blancas."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "manzana",
+  "indice": 3,
+  "nombre": "manzana",
+  "categoria": "alimentos",
+  "observaciones": "Cesta de mimbre llena de manzanas rojas sobre la hierba."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "platano",
+  "indice": 1,
+  "nombre": "plátano",
+  "categoria": "alimentos",
+  "observaciones": "Dos plátanos amarillos sobre fondo negro."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "naranja",
+  "indice": 0,
+  "nombre": "naranja",
+  "categoria": "alimentos",
+  "observaciones": "Naranja entera y gajos cortados sobre fondo blanco."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "fresa",
+  "indice": 1,
+  "nombre": "fresa",
+  "categoria": "alimentos",
+  "observaciones": "Una fresa grande y otra pequeña sobre fondo blanco."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "pan",
+  "indice": 2,
+  "nombre": "pan",
+  "categoria": "alimentos",
+  "observaciones": "Barra de pan sobre fondo blanco."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "huevo",
+  "indice": 4,
+  "nombre": "huevo",
+  "categoria": "alimentos",
+  "observaciones": "Huevos blancos y morenos en una huevera de cartón."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "tomate",
+  "indice": 5,
+  "nombre": "tomate",
+  "categoria": "alimentos",
+  "observaciones": "Tomates rojos en primer plano."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "zanahoria",
+  "indice": 3,
+  "nombre": "zanahoria",
+  "categoria": "alimentos",
+  "observaciones": "Una zanahoria sobre una bandeja verde."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "zapatos",
+  "indice": 3,
+  "nombre": "zapatos",
+  "categoria": "ropa",
+  "observaciones": "Par de zapatos negros de cordones sobre fondo blanco."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "botas",
+  "indice": 5,
+  "nombre": "botas",
+  "categoria": "ropa",
+  "observaciones": "Par de botas de media caña de cuero marrón rojizo con tacón (pieza de museo)."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "guantes",
+  "indice": 4,
+  "nombre": "guantes",
+  "categoria": "ropa",
+  "observaciones": "Dos pares de guantes de cuero, marrones y negros."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "cepillo_dientes",
+  "indice": 0,
+  "nombre": "cepillo de dientes",
+  "categoria": "casa",
+  "observaciones": "Cepillo de dientes con pasta saliendo del tubo. AVISO: se aprecia parcialmente el logotipo del tubo de pasta; sustituir antes de comercializar."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "lampara",
+  "indice": 2,
+  "nombre": "lámpara",
+  "categoria": "casa",
+  "observaciones": "Lámpara de mesa con pantalla iluminada por el sol."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "coche",
+  "indice": 3,
+  "nombre": "coche",
+  "categoria": "transporte",
+  "observaciones": "Coche rojo pequeño aparcado de perfil en una calle. Sin logotipos legibles a este tamaño."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "autobus",
+  "indice": 4,
+  "nombre": "autobús",
+  "categoria": "transporte",
+  "observaciones": "Autobús urbano blanco y verde en una calle."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "tren",
+  "indice": 2,
+  "nombre": "tren",
+  "categoria": "transporte",
+  "observaciones": "Tren de pasajeros circulando por el campo."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "avion",
+  "indice": 3,
+  "nombre": "avión",
+  "categoria": "transporte",
+  "observaciones": "Avión pequeño blanco volando en el cielo azul."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "barco",
+  "indice": 3,
+  "nombre": "barco",
+  "categoria": "transporte",
+  "observaciones": "Velero clásico navegando con las velas desplegadas."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "camion",
+  "indice": 3,
+  "nombre": "camión",
+  "categoria": "transporte",
+  "observaciones": "Camión verde de caja basculante aparcado."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "helicoptero",
+  "indice": 2,
+  "nombre": "helicóptero",
+  "categoria": "transporte",
+  "observaciones": "Helicóptero rojo y blanco volando entre montañas nevadas."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "tractor",
+  "indice": 1,
+  "nombre": "tractor",
+  "categoria": "transporte",
+  "observaciones": "Tractor verde con apero en un campo de cultivo."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "dormir",
+  "indice": 3,
+  "nombre": "dormir",
+  "categoria": "acciones",
+  "observaciones": "Gato atigrado durmiendo tumbado sobre tablas de madera."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "correr",
+  "indice": 0,
+  "nombre": "correr",
+  "categoria": "acciones",
+  "observaciones": "Galgo corriendo a toda velocidad por la hierba."
+ },
+ {
+  "ronda": "r1",
+  "concepto": "saltar",
+  "indice": 4,
+  "nombre": "saltar",
+  "categoria": "acciones",
+  "observaciones": "Delfín saltando fuera del agua."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "caballo",
+  "indice": 0,
+  "nombre": "caballo",
+  "categoria": "animales",
+  "observaciones": "Caballo blanco caminando por una loma con montañas al fondo."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "queso",
+  "indice": 0,
+  "nombre": "queso",
+  "categoria": "alimentos",
+  "observaciones": "Queso de corteza blanca con una cuña cortada sobre fondo negro. Sin etiquetas visibles."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "cuchara",
+  "indice": 5,
+  "nombre": "cuchara",
+  "categoria": "casa",
+  "observaciones": "Cucharilla metálica sobre un mantel."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "cama",
+  "indice": 0,
+  "nombre": "cama",
+  "categoria": "casa",
+  "observaciones": "Cama hecha con cojines decorados y colcha."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "moto",
+  "indice": 2,
+  "nombre": "moto",
+  "categoria": "transporte",
+  "observaciones": "Moto verde aparcada de perfil. El logotipo del fabricante aparece de forma incidental."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "comer",
+  "indice": 2,
+  "nombre": "comer",
+  "categoria": "acciones",
+  "observaciones": "Ardilla gris comiendo sentada sobre una roca."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "leer",
+  "indice": 2,
+  "nombre": "escribir",
+  "categoria": "acciones",
+  "observaciones": "Manos escribiendo con bolígrafo en un cuaderno junto a un libro abierto. Solo se ven las manos.",
+  "archivo": "escribir"
+ },
+ {
+  "ronda": "r2",
+  "concepto": "lavarse_manos",
+  "indice": 0,
+  "nombre": "lavarse las manos",
+  "categoria": "acciones",
+  "observaciones": "Manos enjabonadas bajo el grifo de un lavabo. Solo se ven las manos."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "nadar",
+  "indice": 3,
+  "nombre": "nadar",
+  "categoria": "acciones",
+  "observaciones": "Pato nadando en el agua."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "cortar",
+  "indice": 1,
+  "nombre": "cortar",
+  "categoria": "acciones",
+  "observaciones": "Persona cortando pan con un cuchillo sobre una mesa; no se ve la cara."
+ },
+ {
+  "ronda": "r2",
+  "concepto": "tenedor",
+  "indice": 0,
+  "nombre": "tenedor",
+  "categoria": "casa",
+  "observaciones": "Tenedor metálico sobre fondo blanco."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "leche",
+  "indice": 2,
+  "nombre": "leche",
+  "categoria": "alimentos",
+  "observaciones": "Vaso de leche sobre una mesa."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "beber",
+  "indice": 2,
+  "nombre": "beber",
+  "categoria": "acciones",
+  "observaciones": "Caballo bebiendo agua de un arroyo."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "plato",
+  "indice": 0,
+  "nombre": "plato",
+  "categoria": "casa",
+  "observaciones": "Plato de barro con un tenedor y un cuchillo encima."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "llave",
+  "indice": 4,
+  "nombre": "llave",
+  "categoria": "casa",
+  "observaciones": "Varias llaves en un llavero sobre fondo oscuro."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "bicicleta",
+  "indice": 1,
+  "nombre": "bicicleta",
+  "categoria": "transporte",
+  "observaciones": "Bicicleta de montaña apoyada en un muro de piedra junto al mar."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "silla",
+  "indice": 2,
+  "nombre": "silla",
+  "categoria": "casa",
+  "observaciones": "Silla de madera tradicional sobre fondo blanco (objeto de museo)."
+ },
+ {
+  "ronda": "r3",
+  "concepto": "mesa",
+  "indice": 3,
+  "nombre": "mesa",
+  "categoria": "casa",
+  "observaciones": "Mesa de comedor de madera con sillas alrededor."
+ }
+]

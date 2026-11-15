@@ -1,0 +1,359 @@
+[
+  {
+    "archivo": "perro",
+    "concepto": "perro",
+    "categoria": "animales",
+    "title": "File:Portrait of a labrador retriever.jpg",
+    "observaciones": "Labrador marrón mirando hacia arriba con la boca abierta."
+  },
+  {
+    "archivo": "gato",
+    "concepto": "gato",
+    "categoria": "animales",
+    "title": "File:Felis catus-cat on snow.jpg",
+    "observaciones": "Gato atigrado caminando sobre la nieve; cuerpo entero."
+  },
+  {
+    "archivo": "oveja",
+    "concepto": "oveja",
+    "categoria": "animales",
+    "title": "File:Swaledale Sheep, Lake District, England - June 2009.jpg",
+    "observaciones": "Oveja de raza Swaledale en un prado."
+  },
+  {
+    "archivo": "vaca",
+    "concepto": "vaca",
+    "categoria": "animales",
+    "title": "File:Cows in Schilttal at Schilthorn in 2012 August.jpg",
+    "observaciones": "Dos vacas marrones pastando en un prado."
+  },
+  {
+    "archivo": "cerdo",
+    "concepto": "cerdo",
+    "categoria": "animales",
+    "title": "File:Cochon domestique (Sus scrofa domesticus) (2).jpg",
+    "observaciones": "Cerdo rosado de pie en un corral de tierra."
+  },
+  {
+    "archivo": "gallina",
+    "concepto": "gallina",
+    "categoria": "animales",
+    "title": "File:Hen chicken.jpg",
+    "observaciones": "Primer plano de una gallina roja."
+  },
+  {
+    "archivo": "conejo",
+    "concepto": "conejo",
+    "categoria": "animales",
+    "title": "File:Heimtier 004 2023 08 26.jpg",
+    "observaciones": "Conejo blanco y marrón sobre la hierba."
+  },
+  {
+    "archivo": "elefante",
+    "concepto": "elefante",
+    "categoria": "animales",
+    "title": "File:178 Male African bush elephant in Etosha National Park Photo by Giles Laurent.jpg",
+    "observaciones": "Elefante africano caminando de perfil."
+  },
+  {
+    "archivo": "mariposa",
+    "concepto": "mariposa",
+    "categoria": "animales",
+    "title": "File:Peacock butterfly (Aglais io) 2.jpg",
+    "observaciones": "Mariposa pavo real con las alas abiertas sobre flores blancas."
+  },
+  {
+    "archivo": "manzana",
+    "concepto": "manzana",
+    "categoria": "alimentos",
+    "title": "File:Apples in basket 2018 G1.jpg",
+    "observaciones": "Cesta de mimbre llena de manzanas rojas sobre la hierba."
+  },
+  {
+    "archivo": "platano",
+    "concepto": "plátano",
+    "categoria": "alimentos",
+    "title": "File:Bananas on black background 02.jpg",
+    "observaciones": "Dos plátanos amarillos sobre fondo negro."
+  },
+  {
+    "archivo": "naranja",
+    "concepto": "naranja",
+    "categoria": "alimentos",
+    "title": "File:Orange-Fruit-Pieces.jpg",
+    "observaciones": "Naranja entera y gajos cortados sobre fondo blanco."
+  },
+  {
+    "archivo": "fresa",
+    "concepto": "fresa",
+    "categoria": "alimentos",
+    "title": "File:Big strawberry small strawberry.jpg",
+    "observaciones": "Una fresa grande y otra pequeña sobre fondo blanco."
+  },
+  {
+    "archivo": "pan",
+    "concepto": "pan",
+    "categoria": "alimentos",
+    "title": "File:Breads of Moskovskaya Oblast. img 008.jpg",
+    "observaciones": "Barra de pan sobre fondo blanco."
+  },
+  {
+    "archivo": "huevo",
+    "concepto": "huevo",
+    "categoria": "alimentos",
+    "title": "File:6-Pack-Chicken-Eggs.jpg",
+    "observaciones": "Huevos blancos y morenos en una huevera de cartón."
+  },
+  {
+    "archivo": "tomate",
+    "concepto": "tomate",
+    "categoria": "alimentos",
+    "title": "File:Tomatoes.jpg",
+    "observaciones": "Tomates rojos en primer plano."
+  },
+  {
+    "archivo": "zanahoria",
+    "concepto": "zanahoria",
+    "categoria": "alimentos",
+    "title": "File:Zanahoria, Múnich, Alemania, 2013-03-30, DD 01.JPG",
+    "observaciones": "Una zanahoria sobre una bandeja verde."
+  },
+  {
+    "archivo": "zapatos",
+    "concepto": "zapatos",
+    "categoria": "ropa",
+    "title": "File:Mens' ballroom shoes, Eurodance CZ.jpg",
+    "observaciones": "Par de zapatos negros de cordones sobre fondo blanco."
+  },
+  {
+    "archivo": "botas",
+    "concepto": "botas",
+    "categoria": "ropa",
+    "title": "File:Pair of female red leather boots – Turku Museum Centre, Finland.jpg",
+    "observaciones": "Par de botas de media caña de cuero marrón rojizo con tacón (pieza de museo)."
+  },
+  {
+    "archivo": "guantes",
+    "concepto": "guantes",
+    "categoria": "ropa",
+    "title": "File:Two pairs of mens leather gloves from Randers Handsker.jpg",
+    "observaciones": "Dos pares de guantes de cuero, marrones y negros."
+  },
+  {
+    "archivo": "cepillo_dientes",
+    "concepto": "cepillo de dientes",
+    "categoria": "casa",
+    "title": "File:Toothpasteonbrush.jpg",
+    "observaciones": "Cepillo de dientes con pasta saliendo del tubo. AVISO: se aprecia parcialmente el logotipo del tubo de pasta; sustituir antes de comercializar."
+  },
+  {
+    "archivo": "lampara",
+    "concepto": "lámpara",
+    "categoria": "casa",
+    "title": "File:Lamp with a lampshade illuminated by sunlight.jpg",
+    "observaciones": "Lámpara de mesa con pantalla iluminada por el sol."
+  },
+  {
+    "archivo": "coche",
+    "concepto": "coche",
+    "categoria": "transporte",
+    "title": "File:Fiat 500 in Emilia-Romagna.jpg",
+    "observaciones": "Coche rojo pequeño aparcado de perfil en una calle. Sin logotipos legibles a este tamaño."
+  },
+  {
+    "archivo": "autobus",
+    "concepto": "autobús",
+    "categoria": "transporte",
+    "title": "File:Golden Dragon XML6125, Almaty (P1180221).jpg",
+    "observaciones": "Autobús urbano blanco y verde en una calle."
+  },
+  {
+    "archivo": "tren",
+    "concepto": "tren",
+    "categoria": "transporte",
+    "title": "File:NSW XPT passenger train Galong, NSW.jpg",
+    "observaciones": "Tren de pasajeros circulando por el campo."
+  },
+  {
+    "archivo": "avion",
+    "concepto": "avión",
+    "categoria": "transporte",
+    "title": "File:N626TM MEDEVAC Flight to KCMH.jpg",
+    "observaciones": "Avión pequeño blanco volando en el cielo azul."
+  },
+  {
+    "archivo": "barco",
+    "concepto": "barco",
+    "categoria": "transporte",
+    "title": "File:Moonbeam - Brest 2008-10.jpg",
+    "observaciones": "Velero clásico navegando con las velas desplegadas."
+  },
+  {
+    "archivo": "camion",
+    "concepto": "camión",
+    "categoria": "transporte",
+    "title": "File:ZiL-130 truck 2013 G1.jpg",
+    "observaciones": "Camión verde de caja basculante aparcado."
+  },
+  {
+    "archivo": "helicoptero",
+    "concepto": "helicóptero",
+    "categoria": "transporte",
+    "title": "File:Tengboche, Helicopter in flight, Mountains of Nepal.jpg",
+    "observaciones": "Helicóptero rojo y blanco volando entre montañas nevadas."
+  },
+  {
+    "archivo": "tractor",
+    "concepto": "tractor",
+    "categoria": "transporte",
+    "title": "File:Agricultural Farm in Nagapattinam.jpg",
+    "observaciones": "Tractor verde con apero en un campo de cultivo."
+  },
+  {
+    "archivo": "dormir",
+    "concepto": "dormir",
+    "categoria": "acciones",
+    "title": "File:Cat Porto Covo July 2026-2.jpg",
+    "observaciones": "Gato atigrado durmiendo tumbado sobre tablas de madera."
+  },
+  {
+    "archivo": "correr",
+    "concepto": "correr",
+    "categoria": "acciones",
+    "title": "File:Greyhound Racing 2 amk.jpg",
+    "observaciones": "Galgo corriendo a toda velocidad por la hierba."
+  },
+  {
+    "archivo": "saltar",
+    "concepto": "saltar",
+    "categoria": "acciones",
+    "title": "File:010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg",
+    "observaciones": "Delfín saltando fuera del agua."
+  },
+  {
+    "archivo": "caballo",
+    "concepto": "caballo",
+    "categoria": "animales",
+    "title": "File:Domestic horse at Suryachaur and the mountains in the back1.jpg",
+    "observaciones": "Caballo blanco caminando por una loma con montañas al fondo."
+  },
+  {
+    "archivo": "queso",
+    "concepto": "queso",
+    "categoria": "alimentos",
+    "title": "File:Cowgirl Creamery Point Reyes - Red Hawk cheese.jpg",
+    "observaciones": "Queso de corteza blanca con una cuña cortada sobre fondo negro. Sin etiquetas visibles."
+  },
+  {
+    "archivo": "cuchara",
+    "concepto": "cuchara",
+    "categoria": "casa",
+    "title": "File:MacDonald Arms Hotel teaspoon reverse.jpg",
+    "observaciones": "Cucharilla metálica sobre un mantel."
+  },
+  {
+    "archivo": "cama",
+    "concepto": "cama",
+    "categoria": "casa",
+    "title": "File:44 Made bed with richly decorated pillows and ornate bedspread.jpg",
+    "observaciones": "Cama hecha con cojines decorados y colcha."
+  },
+  {
+    "archivo": "moto",
+    "concepto": "moto",
+    "categoria": "transporte",
+    "title": "File:Honda CMX500 Rebel parked at Hogs for Hospice, Leamington, Ontario, 2025-08-02.jpg",
+    "observaciones": "Moto verde aparcada de perfil. El logotipo del fabricante aparece de forma incidental."
+  },
+  {
+    "archivo": "comer",
+    "concepto": "comer",
+    "categoria": "acciones",
+    "title": "File:Squirrel eating in CP (53112).jpg",
+    "observaciones": "Ardilla gris comiendo sentada sobre una roca."
+  },
+  {
+    "archivo": "escribir",
+    "concepto": "escribir",
+    "categoria": "acciones",
+    "title": "File:Hands holding an open book as someone writes in a notebook surrounded by scattered pages.jpg",
+    "observaciones": "Manos escribiendo con bolígrafo en un cuaderno junto a un libro abierto. Solo se ven las manos."
+  },
+  {
+    "archivo": "lavarse_manos",
+    "concepto": "lavarse las manos",
+    "categoria": "acciones",
+    "title": "File:Washing hands with soap (1).jpg",
+    "observaciones": "Manos enjabonadas bajo el grifo de un lavabo. Solo se ven las manos."
+  },
+  {
+    "archivo": "nadar",
+    "concepto": "nadar",
+    "categoria": "acciones",
+    "title": "File:Tufted Duck 09 05 2025 02.jpg",
+    "observaciones": "Pato nadando en el agua."
+  },
+  {
+    "archivo": "cortar",
+    "concepto": "cortar",
+    "categoria": "acciones",
+    "title": "File:Bread shared at the Augsburger Hohes Friedensfest 2023 as a sign of peace 02.jpg",
+    "observaciones": "Persona cortando pan con un cuchillo sobre una mesa; no se ve la cara."
+  },
+  {
+    "archivo": "tenedor",
+    "concepto": "tenedor",
+    "categoria": "casa",
+    "title": "File:Fork isolated on white background 03.jpg",
+    "observaciones": "Tenedor metálico sobre fondo blanco."
+  },
+  {
+    "archivo": "leche",
+    "concepto": "leche",
+    "categoria": "alimentos",
+    "title": "File:Vaso de Leche.jpg",
+    "observaciones": "Vaso de leche sobre una mesa."
+  },
+  {
+    "archivo": "beber",
+    "concepto": "beber",
+    "categoria": "acciones",
+    "title": "File:...спека..річка Стохід. урочище \"Лука\".jpg",
+    "observaciones": "Caballo bebiendo agua de un arroyo."
+  },
+  {
+    "archivo": "plato",
+    "concepto": "plato",
+    "categoria": "casa",
+    "title": "File:The way we like our plates at the end of dinner- Dinner on New Year's Day 2024 - The Eighth Day of Christmas - 53435741068.jpg",
+    "observaciones": "Plato de barro con un tenedor y un cuchillo encima."
+  },
+  {
+    "archivo": "llave",
+    "concepto": "llave",
+    "categoria": "casa",
+    "title": "File:Various keys on keyring.jpg",
+    "observaciones": "Varias llaves en un llavero sobre fondo oscuro."
+  },
+  {
+    "archivo": "bicicleta",
+    "concepto": "bicicleta",
+    "categoria": "transporte",
+    "title": "File:Bicycle parked at the Lower Agoda Fort.jpg",
+    "observaciones": "Bicicleta de montaña apoyada en un muro de piedra junto al mar."
+  },
+  {
+    "archivo": "silla",
+    "concepto": "silla",
+    "categoria": "casa",
+    "title": "File:Objectes de la Sala Secà i Muntanya (26584791563).jpg",
+    "observaciones": "Silla de madera tradicional sobre fondo blanco (objeto de museo)."
+  },
+  {
+    "archivo": "mesa",
+    "concepto": "mesa",
+    "categoria": "casa",
+    "title": "File:Dining table brown.jpg",
+    "observaciones": "Mesa de comedor de madera con sillas alrededor."
+  }
+]
